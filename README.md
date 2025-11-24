@@ -5,11 +5,14 @@
 New Era Universty - Quezon City
 
 ## Certifications
-NC II Holder
--computer System Servicing (CSS)
+
 SQL and Relational Databeses 101
 -
 [View](https://courses.cognitiveclass.ai/certificates/810d1bab3911440dac7141a31ea139ed)
+
+NC II Holder
+-computer System Servicing (CSS) 
+Certificate no:24175102001835
 ## Skillsets
 Java — Basic to intermediate; able to build simple applications or system features
 HTML / CSS — Can create structured, clean, and responsive web pages
