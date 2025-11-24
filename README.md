@@ -8,8 +8,7 @@ New Era Universty - Quezon City
 
 SQL and Relational Databeses 101
 -
-[View](https://courses.cognitiveclass.ai/certificates/810d1bab3911440dac7141a31ea139ed)
-
+SQL and Relational Databases 101
 NC II Holder
 -computer System Servicing (CSS) 
 Certificate no:24175102001835
